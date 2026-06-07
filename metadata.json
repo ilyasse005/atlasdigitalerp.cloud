@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Digital",
+  "description": "Premium enterprise website for Atlas Digital, specializing in Odoo ERP and Digital Transformation in Morocco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
